@@ -29,13 +29,13 @@ Este proyecto es una aplicación web simple creada con React que te permite admi
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](../prueba-tecnica-c-pocket/src/images/screenshots1.png)
+![Captura de pantalla 1](././src/images/screenshots1.png)
 
-![Captura de pantalla 2](../prueba-tecnica-c-pocket/src/images/screenshots2.png)
+![Captura de pantalla 2](././src/images/screenshots2.png)
 
-![Captura de pantalla 3](../prueba-tecnica-c-pocket/src/images/screenshots3.png)
+![Captura de pantalla 3](././src/images/screenshots3.png)
 
-![Captura de pantalla 4](../prueba-tecnica-c-pocket/src/images/screenshots4.png)
+![Captura de pantalla 4](././src/images/screenshots4.png)
 
 
 Espero que esta información sea útil para entender cómo funciona el proyecto. Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactarme
